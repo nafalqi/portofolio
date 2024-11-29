@@ -21,13 +21,13 @@ a {
   padding-bottom: 1px;
 }
 
-<!-- section 1 -->
+/* section 1 */
 .section1 {
   height: 300vh;
   background-image: url(./images/img1.jpg);
 }
 
-<!-- curtain -->
+/*curtain*/
 .curtain h1.mobile {
   display: none;
 }
@@ -67,7 +67,7 @@ h2 {
   padding: 0 10%;
 }
 
-<!-- section 2 -->
+/* section 2 */
 .section2 {
   padding: 10%;
   padding-bottom: 15%;
@@ -110,7 +110,7 @@ h2 {
   color: black;
 }
 
-<!-- section 3 -->
+/* section 3 */
 .section3 {
   padding: 10%;
   background-image: url(./images/img1.jpg);
@@ -134,7 +134,7 @@ h2 {
   height: 400px !important;
 }
 
-<!-- responsive -->
+/* responsive */
 
 @media screen and (max-width: 1024px) {
   .curtain h1 {
